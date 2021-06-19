@@ -62,3 +62,6 @@ dist/
 # Ignore IntelliJ files
 .idea/
 *.iml
+
+# NPM lock file
+package-lock.json

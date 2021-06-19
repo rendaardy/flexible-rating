@@ -15,6 +15,7 @@
   "name": "flexible-rating",
   "version": "3.1.0",
   "main": "flexible-rating.js",
+  "types": "flexible-rating.d.ts",
   "bugs": {
     "url": "https://github.com/mammooc/flexible-rating/issues"
   },

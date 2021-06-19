@@ -40,7 +40,7 @@ import { IronControlState } from '@polymer/iron-behaviors/iron-control-state.js'
  * @customElement
  * @demo demo/index.html
  */
-class FlexibleRating extends mixinBehaviors([
+export class FlexibleRating extends mixinBehaviors([
     IronValidatableBehavior,
     IronA11yKeysBehavior,
     IronControlState
